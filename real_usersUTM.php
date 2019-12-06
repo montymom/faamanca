@@ -1,7 +1,7 @@
 <?php
 // плагин для проброса параметров запроса включая UTM метки
 // пропишите в строке ниже ссылку на оффер (TDS)
-$link='http://138.197.164.7/click.php?key=imre283ycedf28z2l3gi&pid={pid}'; // ссылка на оффер, кейтаро или другую TDS.
+$link='https://comweb.club/click.php?key=hll7jjbvassxzzqtmpov&pid={pid}'; // ссылка на оффер, кейтаро или другую TDS.
 
 // основная логика плагина
 if(!empty($_GET)) {
